@@ -4,11 +4,7 @@
 
 ### 2026-11-19: [KubeRange](https://github.com/gnufred/kuberange)
 
-I moved my home lab into its own repository. KubeRange uses Vagrant and Ansible to provision a disposable Kubernetes cluster offline for troubleshooting and recovery exercises.
-
-### 2026-11-04: Offline lab refresh
-
-I rebuilt the Alpine base box and got the lab running on Kubernetes 1.36.1 using cached packages and images.
+I updated and moved my home lab into its own repository. KubeRange uses Vagrant and Ansible to provision a disposable Kubernetes cluster offline for troubleshooting and recovery exercises.
 
 ### 2026-02: NGINX to Cloudflare and Traefik
 
