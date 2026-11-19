@@ -10,6 +10,14 @@ I moved my home lab into its own repository. KubeRange uses Vagrant and Ansible 
 
 I rebuilt the Alpine base box and got the lab running on Kubernetes 1.36.1 using cached packages and images.
 
+### 2026-02: NGINX to Cloudflare and Traefik
+
+I replaced NGINX ingress for Kiln’s production APIs with Cloudflare in front of Traefik on Kubernetes. I owned the implementation and coordinated the rollout across engineering teams without interrupting service.
+
+### 2025-06: PostgreSQL from AWS to Google Cloud
+
+I led the migration of 250 PostgreSQL databases and more than 5 TB of data from AWS to AlloyDB on Google Cloud, using Terraform and Terragrunt for the infrastructure work. The APIs that depended on these databases served thousands of requests per second and stayed online throughout.
+
 ### 2024-11-04: [Managing Kubernetes Applications with Helm (LFS244)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/2b01f0e0-397b-49b8-a81e-1f0628e10548-frdric-potvin-897eb1f2-0c5d-432e-9e14-5fa20504a81c-certificate.pdf)
 
 After working on validator deployments at Kiln, I wanted a deeper understanding of Helm. I read [Learning Helm](https://www.oreilly.com/library/view/learning-helm/9781492083641/) and completed the Linux Foundation course.
