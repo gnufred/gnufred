@@ -16,4 +16,6 @@ I’ve spent more than 24 years building software and running production systems
 
 I work with Go, Python, Linux, Kubernetes, and cloud platforms.
 
-I’ve documented my Kubernetes training, lab work, and production experience in [My Kubernetes Journey](kubernetes-journey.md).
+## My Kubernetes Journey
+
+I’ve documented my Kubernetes training, lab work, and production experience in [here](kubernetes-journey.md).

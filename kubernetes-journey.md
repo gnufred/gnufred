@@ -22,7 +22,7 @@ I led the migration of 250 PostgreSQL databases and more than 5 TB of data from 
 
 After working on validator deployments at Kiln, I wanted a deeper understanding of Helm. I read [Learning Helm](https://www.oreilly.com/library/view/learning-helm/9781492083641/) and completed the Linux Foundation course.
 
-### 2024-08: Joined Kiln as a Senior SRE
+### 2024-08: Joined Kiln as an SRE
 
 I wrote Helm charts to deploy validators and nodes for [Hyperliquid](https://hyperliquid.xyz/), [RSS3](https://rss3.io/), and [Aztec](https://aztec.network/) on Kiln’s bare-metal Kubernetes infrastructure. I set up monitoring and alerting with Prometheus and Grafana.
 
