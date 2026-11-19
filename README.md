@@ -15,3 +15,5 @@ I also happen to know how to respond to cardiac arrest, care for people with tra
 I’ve spent more than 24 years building software and running production systems, including at Platform.sh and Kiln. I enjoy figuring out why a system is misbehaving and making it easier to understand and maintain.
 
 I work with Go, Python, Linux, Kubernetes, and cloud platforms.
+
+I’ve documented my Kubernetes training, lab work, and production experience in [My Kubernetes Journey](kubernetes-journey.md).
